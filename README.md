@@ -1,4 +1,4 @@
-# Breast_Cancer_Classification
+# Breast Cancer Classification using Neural Networks
 
 Deep Learning is a subfield of machine learning concerned with algorithms called Artificial Neural Networks, inspired by the structure and function of the human brain. This 
 repository contains a predictive model that predicts whether a tumor is benign or malignant based on thirty medical parameters that are input. The dataset that has been used to train and test the model is the Scikit-Learn breast cancer dataset. The Keras Sequential model has been used.
